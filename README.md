@@ -26,7 +26,7 @@ solo contribuzioni presso repository su GitHub o Gitlab che abbiano il **topic**
 Di seguito alcuni progetti che partecipano ad Hacktoberfest:
 
 - Strawberry, https://github.com/strawberry-graphql/strawberry, una libreria per scrivere applicazioni GraphQL in Python
-- Oruga, https://oruga.io/hacktoberfest/, componenti agonistici al CSS per Vue.js
+- Oruga, https://oruga.io/hacktoberfest/, componenti agnostici rispetto al CSS per Vue.js
 - Developers Italia, https://developers.italia.it/it/cosa-fare?type=Hacktoberfest, varie ed eventuali su progetti dello stato Italiano
 
 ### Altre opzioni
