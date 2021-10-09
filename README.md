@@ -28,6 +28,9 @@ Di seguito alcuni progetti che partecipano ad Hacktoberfest:
 - Strawberry, https://github.com/strawberry-graphql/strawberry, una libreria per scrivere applicazioni GraphQL in Python
 - Oruga, https://oruga.io/hacktoberfest/, componenti agnostici rispetto al CSS per Vue.js
 - Developers Italia, https://developers.italia.it/it/cosa-fare?type=Hacktoberfest, varie ed eventuali su progetti dello stato Italiano
+- Rust Italia, [mdev](https://github.com/rust-italia/mdev), [mdev-parser](https://github.com/rust-italia/mdev-parser) e [kobject-uevent](https://github.com/rust-italia/kobject-uevent), si riscrive un gestore degli eventi kernel simile a [mdev](https://git.busybox.net/busybox/tree/util-linux/mdev.c) di busybox per imparare un po'.
+- Rust-av, https://github.com/rust-av, multimedia in rust.
+- rav1e, https://github.com/xiph/rav1e, un encoder AV1 scritto in rust (ed assembly).
 
 ### Altre opzioni
 
